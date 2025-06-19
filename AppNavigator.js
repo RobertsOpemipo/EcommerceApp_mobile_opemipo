@@ -15,7 +15,6 @@ export default function AppNavigator() {
             let iconName;
             if (route.name === "Home")
               iconName = focused ? "home" : "home-outline";
-            else iconName = focused ? "cart" : "cart-outline";
             return <Ionicons name={iconName} size={size} color={color} />;
           },
         })}
