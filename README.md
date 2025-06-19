@@ -47,6 +47,17 @@ This project demonstrates a fully functional **e-commerce product listing screen
 - Uses flexible layouts and media queries for optimal display.
 
 ---
+## GitHub Repository
+- You can find the full source code here:
+
+👉 https://github.com/RobertsOpemipo/EcommerceApp_mobile_opemipo
+
+ 
+
+## 🎥 Demonstration Video
+- Watch a short demo of the app showing its key features:
+
+👉 assets/video/2025-06-19_12-34-49.mp4
 
 ## 🧠 Development Process
 
